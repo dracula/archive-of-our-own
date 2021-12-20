@@ -306,6 +306,10 @@ ul.required-tags,
   border: 0;
 }
 
+.own, .draft, .draft .wrapper, .unread, .child, .unwrangled, .unreviewed {
+background: #282a36;
+}
+
 #outer .group .heading,
 #header .actions a,
 #footer .secondary a,
