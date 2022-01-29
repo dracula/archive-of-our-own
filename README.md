@@ -6,9 +6,8 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/ao3](https://draculatheme.com/ao3).
 
-Navigate to Profile -> Skins -> Create Site Skin and copy/paste the theme you want into the CSS box. Fill in the About box and save.
+Navigate to Profile -> Skins -> Create Site Skin and copy/paste the theme you want into the _CSS_ box. Fill in the _About_ box above it and save.
 
 ## Team
 
