@@ -19,4 +19,4 @@ This theme is maintained by the following person:
 
 ## License
 
-[MIT License](./LICENSE)
+[CC0](./LICENSE)
