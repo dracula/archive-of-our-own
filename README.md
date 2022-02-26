@@ -2,12 +2,17 @@
 
 > A series of dark themes for [Archive of Our Own](https://archiveofourown.org/). Based on Reversi by AO3 with code adapted from 'colour flip combos' by lim @ ao3.
 
-![Screenshot](https://github.com/dhampir-damsel/draculathemes_ao3/blob/main/Images/purple.png?raw=true)
+![Screenshot](./screenshot.png)
 
 ## Install
 
+All instructions can be found at [draculatheme.com/archive-of-our-own](https://draculatheme.com/archive-of-our-own).
 
-Navigate to Profile -> Skins -> Create Site Skin and copy/paste the theme you want into the _CSS_ box. Fill in the _About_ box above it and save.
+## Community
+
+* [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+* [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+* [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
 ## Team
 
@@ -19,4 +24,4 @@ This theme is maintained by the following person:
 
 ## License
 
-[CC0](./LICENSE)
+[MIT License](./LICENSE)
